@@ -9,7 +9,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlembasabakar&color=orange" alt="mdurular" /> </p>
 -->
-## 💻 Working on:
+## 💻 Experience on:
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="100"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
@@ -17,7 +17,8 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="90"/> </a>
 <a href="#" target="_blank"> <img src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" alt="NLTK" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="Flask" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/171/176/png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange-thumbnail.png" alt="TensorFlow" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/75-753841_tensorflow-logo-transparent-hd-png-download.png" alt="TensorFlow" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://keras.io/img/logo.png" alt="Keras" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="30"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30"/> </a>
