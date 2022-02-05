@@ -1,5 +1,6 @@
 ### Hi folks, I'm Özlem 👋
-- 🔭🌱 I’m currently learning and working on [`SpaitalRegression`](https://github.com/ozlembasabakar/spatial_regression)
+- 🔭 I’m currently working [`GuessNumber`](https://github.com/ozlembasabakar/GuessNumber)
+- 🌱 I’m currently learning on [`SpaitalRegression`](https://github.com/ozlembasabakar/SpatialRegression)
 
 ## :woman: You can find me here:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozlembasabakar/)
@@ -9,7 +10,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlembasabakar&color=orange" alt="mdurular" /> </p>
 -->
-## 💻 Experience on:
+## 💻 Experienced with:
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="100"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
