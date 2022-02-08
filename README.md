@@ -1,5 +1,4 @@
 ### Hi folks, I'm Özlem 👋
-- 🔭 I’m currently working [`GuessNumber`](https://github.com/ozlembasabakar/GuessNumber)
 - 🌱 I’m currently learning on [`SpaitalRegression`](https://github.com/ozlembasabakar/SpatialRegression)
 
 ## :woman: You can find me here:
@@ -8,6 +7,7 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ozlembasabakar)
 
 <!--
+- 🔭 I’m currently working [`GuessNumber`](https://github.com/ozlembasabakar/GuessNumber)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlembasabakar&color=orange" alt="mdurular" /> </p>
 -->
 ## 💻 Experienced with:
