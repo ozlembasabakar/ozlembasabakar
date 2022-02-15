@@ -1,4 +1,5 @@
 ### Hi folks, I'm Özlem 👋
+- 🔭 I’m currently working [`DetailedExploratoryDataAnalysis`](https://github.com/ozlembasabakar/DetailedExploratoryDataAnalysis)
 - 🌱 I’m currently learning on [`SpaitalRegression`](https://github.com/ozlembasabakar/SpatialRegression)
 
 ## :woman: You can find me here:
