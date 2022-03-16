@@ -1,6 +1,5 @@
 ### Hi folks, I'm Özlem 👋
-- 🔭 I’m currently working [`DetailedExploratoryDataAnalysis`](https://github.com/ozlembasabakar/DetailedExploratoryDataAnalysis)
-- 🌱 I’m currently learning on [`SpaitalRegression`](https://github.com/ozlembasabakar/SpatialRegression)
+- 🔭 I’m currently working [`QualificationResearch`](https://github.com/ozlembasabakar/QualificationResearch)
 
 ## :woman: You can find me here:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozlembasabakar/)
@@ -8,6 +7,7 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ozlembasabakar)
 
 <!--
+- 🌱 I’m currently learning on [`SpaitalRegression`](https://github.com/ozlembasabakar/SpatialRegression)
 - 🔭 I’m currently working [`GuessNumber`](https://github.com/ozlembasabakar/GuessNumber)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlembasabakar&color=orange" alt="mdurular" /> </p>
 -->
@@ -15,7 +15,6 @@
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="100"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="130"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="90"/> </a>
 <a href="#" target="_blank"> <img src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" alt="NLTK" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="Flask" height="50"/> </a>
