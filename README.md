@@ -1,5 +1,5 @@
 ### Hi folks, I'm Özlem 👋
-- 🔭 I’m currently working on [`Android Projects`](https://github.com/ozlembasabakar/UpSchoolAndroidDevelopmentBootcamp)
+- 🌱 I’m currently learning on Android Development with UpSchool x Akbank AndroidDeveloperBootcamp
 
 ## :woman: You can find me here:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozlembasabakar/)
