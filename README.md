@@ -29,9 +29,9 @@
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ozlembasabakar&theme=kacho_ga" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlembasabakar&theme=kacho_ga" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlembasabakar&theme=kacho_ga&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ozlembasabakar&show_icons=true&theme=flag-india" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlembasabakar&theme=kacho_ga&theme=default" alt="my commit status" width="49%" /> </p>
+
 <!--
 **ozlembasabakar/ozlembasabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
