@@ -13,6 +13,7 @@
 -->
 ## 💻 Experienced with:
 
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/53402156/182397250-ab5ae70f-25f8-465e-a60e-916ac7d42b0a.svg" alt="Kotlin" width="50"/> </a>
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="100"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="90"/> </a>
