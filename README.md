@@ -13,11 +13,14 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozlembasabakar@gmail.com)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ozlembasabakar)
 
+
 <!--
 - 🌱 I’m currently learning on [`SpaitalRegression`](https://github.com/ozlembasabakar/SpatialRegression)
 - 🔭 I’m currently working [`GuessNumber`](https://github.com/ozlembasabakar/GuessNumber)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlembasabakar&color=orange" alt="mdurular" /> </p>
 -->
+
+<!--
 ## 💻 Experienced with:
 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/53402156/182397250-ab5ae70f-25f8-465e-a60e-916ac7d42b0a.svg" alt="Kotlin" width="50"/> </a>
@@ -35,12 +38,13 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="30"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 
+
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ozlembasabakar&show_icons=true&theme=flag-india" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlembasabakar&theme=kacho_ga&theme=default" alt="my commit status" width="49%" /> </p>
 
-<!--
+
 **ozlembasabakar/ozlembasabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
