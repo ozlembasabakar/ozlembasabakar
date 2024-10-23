@@ -3,9 +3,10 @@
 
 ### 🔭 Certificates:
 - [`Android Development`](https://verified.cv/en/verify/98060539937299?ref=email)
+<!--
 - [`Python ile Makine Öğrenmesi`](https://www.udemy.com/certificate/UC-5accfdfe-9ad3-49db-b832-0afed38e91c5/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)
 - [`Machine Learning A-Z™: Hands-On Python & R In Data Science`](https://www.udemy.com/certificate/UC-b757b2e6-01da-4053-b891-0fc35ff63379/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)
-
+-->
 
 
 ## :woman: You can find me here:
